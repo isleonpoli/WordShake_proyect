@@ -7,6 +7,7 @@ class HolaMundo{
 
         while (i == 2) {
             i++;
+            System.out.println("hola");
         }
     }
 }
